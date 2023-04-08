@@ -1,3 +1,4 @@
+//7.	Create a map with name, phone keys and store some values on it. Use where to find all keys that have length 4.
 void main() {
   Map phone = Map<String, String>();
   phone["Aaryan basnet "] = '9840031096';

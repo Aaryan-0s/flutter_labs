@@ -6,7 +6,7 @@ void main() {
 }
 
 void mult(String name) {
-  for (int i = 0; i < 3; i++) {
+  for (int i = 0; i < 100; i++) {
     print(name);
   }
 }
